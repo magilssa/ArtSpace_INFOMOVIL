@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ArtSpace_INFOMOVIL</string>
+    <string name="name">MARIO GIL SAENZ</string>
+    <string name="num">123456789</string>
+    <string name="Sig">Siguiente</string>
+    <string name="Ant">Anterior</string>
 </resources>
