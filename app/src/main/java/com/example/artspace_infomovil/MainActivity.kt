@@ -65,7 +65,7 @@ class MainActivity : ComponentActivity() {
 fun SpaceApp(
     modifier: Modifier = Modifier
 ) {
-    var ident by remember { mutableStateOf(3) }
+    var ident by remember { mutableStateOf(0) }
     Column(
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.Center
