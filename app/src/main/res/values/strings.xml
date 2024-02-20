@@ -1,7 +1,22 @@
 <resources>
     <string name="app_name">ArtSpace_INFOMOVIL</string>
-    <string name="name">MARIO GIL SAENZ</string>
-    <string name="num">123456789</string>
+
+    <string name="titulo">CUADRO 0</string>
+    <string name="artista">ARTISTA 0</string>
+    <string name="anio">0</string>
+
+    <string name="titulo1">CUADRO 1</string>
+    <string name="artista1">ARTISTA 1</string>
+    <string name="anio1">1</string>
+
+    <string name="titulo2">CUADRO 2</string>
+    <string name="artista2">ARTISTA 2</string>
+    <string name="anio2">2</string>
+
+    <string name="titulo3">CUADRO 3</string>
+    <string name="artista3">ARTISTA 3</string>
+    <string name="anio3">3</string>
+
     <string name="Sig">Siguiente</string>
     <string name="Ant">Anterior</string>
 </resources>
